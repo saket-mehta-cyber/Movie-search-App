@@ -20,7 +20,7 @@ app.get("/results",function(req,res){
 });
 });
 
-// asasas
+
 
 
 app.listen(process.env.PORT || 3000,function(){
